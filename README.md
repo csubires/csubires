@@ -2,6 +2,8 @@
 #### 🌱 I’m currently learning in 42Málaga
   Computer applications developer. Currently I do different types of projects in the programming campus of 42, whose methodology makes me grow every day more in soft skills and knowledge.
 
+[Portfolio](https://csubires.github.io/portfolio/)
+
 **Very interested in learning about Computer Security, Artificial Intelligence, and system / network / database administration**
 ---
 
